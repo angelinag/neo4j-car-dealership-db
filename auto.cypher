@@ -1,8 +1,3 @@
-// Problem: Create a simple car dealership graph database.
-// Minimum number of nodes: 5. Minimum types of nodes: 3.
-// Minimum relationships: 5.
-// Minimum queries: 10.
-
 // Create Car nodes with data
 
 Create (car1:Car {c_id:'01', brand:'Mercedes', color: 'metallic', doors:4})
